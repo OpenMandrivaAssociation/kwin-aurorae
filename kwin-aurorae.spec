@@ -10,8 +10,8 @@
 
 
 Name:           kwin-aurorae
-Version:        6.5.3
-Release:        2
+Version:        6.5.4
+Release:        1
 Summary:        Themeable window decoration for kwin
 Group:          Settings
 License:        GPLv2, MIT
