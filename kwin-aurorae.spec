@@ -10,7 +10,7 @@
 
 
 Name:           kwin-aurorae
-Version:        6.6.5
+Version:        6.7.0
 Release:        1
 Summary:        Themeable window decoration for kwin
 Group:          Settings
