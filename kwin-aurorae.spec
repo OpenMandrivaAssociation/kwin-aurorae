@@ -3,7 +3,7 @@
 
 Name:		kwin-aurorae
 Version:	6.7.5
-Release:	1
+Release:	2
 Summary:	Themeable window decoration for KWin
 Group:		Graphical desktop/KDE
 License:	GPLv2+
