@@ -2,7 +2,7 @@
 %define stable %([ "$(echo %{version} |cut -d. -f2)" -ge 80 -o "$(echo %{version} |cut -d. -f3)" -ge 80 ] && echo -n un; echo -n stable)
 
 Name:		kwin-aurorae
-Version:	6.8.1
+Version:	6.8.2
 Release:	1
 Summary:	Themeable window decoration for KWin
 Group:		Graphical desktop/KDE
